@@ -1,10 +1,1 @@
-[
-  {
-    "id": "test_1ru_20261103",
-    "title": "테스트 선물 · Test gift",
-    "desc": "우편함 테스트다냥!",
-    "rewards": [{"kind": "churu", "n": 1}],
-    "start": "",
-    "end": ""
-  }
-]
+[]
